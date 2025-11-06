@@ -4,4 +4,4 @@ permalink: /Hobbies/
 title: Hobbies!
 ---
 
-I have allot of hobbies, 
+_I have allot of hobbies, like 50._
